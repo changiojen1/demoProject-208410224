@@ -1,0 +1,13 @@
+.bg-black {
+  background-color: rgb(24, 26, 27);
+}
+.white {
+  color: white;
+}
+.sw20 {
+  width: 20%;
+}
+.title {
+  font-family: "Good Morning";
+  font-weight: 200;
+}

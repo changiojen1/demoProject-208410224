@@ -1,0 +1,92 @@
+export const demos = [
+  {
+    id: "1",
+    pname: "Apple iPhone 12 Pro",
+    storage:"(6GB/512GB)",
+    price: "$44,400",
+  },
+  {
+    id: "2",
+    pname: "Samsung Galaxy S20+",
+    storage:"(12GB/128GB)",
+    price: "$25,400",
+  },
+  {
+    id: "3",
+    pname: "ASUS ROG Phone 3",
+    storage:"(12GB/512GB)",
+    price: "$26,800",
+  },
+  {
+    id: "4",
+    pname: "ASUS ZenFone 7 Pro",
+    storage:"(8GB/256GB)",
+    price: "$25,500",
+  },
+  {
+    id: "5",
+    pname: "SONY Xperia 1 II",
+    storage:"(8GB/256GB)",
+    price: "$33,990",
+  },
+  {
+    id: "6",
+    pname: "Google Pixel 4 XL",
+    storage:"(6GB/128GB)",
+    price: "$22,000",
+  },
+  {
+    id: "7",
+    pname: "OPPO Find X2 Pro",
+    storage:"(12GB/512GB)",
+    price: "$32,500",
+  },
+  {
+    id: "8",
+    pname: "黑鯊 遊戲手機 3",
+    storage:"(8GB/128GB)",
+    price: "$17,900",
+  },
+  {
+    id: "9",
+    pname: "LG V60 ThinQ",
+    storage:"(8GB/256GB)",
+    price: "$33,900",
+  },
+  {
+    id: "10",
+    pname: "SHARP AQUOS R5G",
+    storage:"(12GB/256GB)",
+    price: "$25,900",
+  },
+  {
+    id: "11",
+    pname: "Nokia 8.3 5G",
+    storage:"(8GB/128GB)",
+    price: "$16,500",
+  },
+  {
+    id: "12",
+    pname: "realme X3",
+    storage:"(8GB/128GB)",
+    price: "$10,000",
+  },
+  {
+    id: "13",
+    pname: "Samsung Galaxy Note 10+",
+    storage:"(12GB/256GB)",
+    price: "$24,800",
+  },
+  {
+    id: "14",
+    pname: "OPPO Reno 4 Pro",
+    storage:"(12GB/256GB)",
+    price: "$18,500",
+  },
+  {
+    id: "15",
+    pname: "ASUS ZenFone 6",
+    storage:"(8GB/512GB)",
+    price: "$17,750",
+  },
+];
